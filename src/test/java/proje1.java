@@ -3,6 +3,7 @@ public class proje1 {
         System.out.println("Hello");
         System.out.println("Created repository");
         System.out.println("Made new commit");
+        System.out.println("Github Repo is already published");
     }
 
 }
